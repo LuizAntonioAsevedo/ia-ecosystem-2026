@@ -19,18 +19,18 @@ Este projeto apresenta uma análise estratégica sobre a evolução da Inteligê
 
 ## 🎥 Demonstração
 
-👉 [Clique para assistir o vídeo](assets/videos/ia-2026.mp4)
+[![Assistir vídeo](https://img.youtube.com/vi/96g6dVYYxkA/0.jpg)](https://youtu.be/96g6dVYYxkA)
 
 ---
 
 ## 📂 Conteúdo do Projeto
 
-| Tipo         | Descrição             |
-| ------------ | --------------------- |
-| 📄 Documento | Resumo de Prompts     |
-| 📄 Documento | Análise Sistêmica     |
-| 📊 Slides    | Apresentação          |
-| 🎥 Vídeo     | Explicação do projeto |
+| Tipo         | Arquivo                          | Descrição                   |
+| ------------ | -------------------------------- | --------------------------- |
+| 📄 Documento | assets/docs/resumo-prompts.docx  | Prompts e fontes utilizadas |
+| 📄 Documento | assets/docs/analise-ia-2026.docx | Análise sistêmica           |
+| 📊 Slides    | assets/docs/apresentacao.pptx    | Apresentação do projeto     |
+| 🎥 Vídeo     | YouTube                          | Demonstração geral          |
 
 ---
 
@@ -55,7 +55,7 @@ Após subir o projeto:
 Seu site ficará assim:
 
 ```
-https://seu-usuario.github.io/ia-ecosystem-2026
+https://SEU-USUARIO.github.io/ia-ecosystem-2026
 ```
 
 ---
@@ -72,4 +72,4 @@ git clone https://github.com/SEU-USUARIO/ia-ecosystem-2026.git
 
 Luiz Antônio Asevedo
 
-Especialista em Tecnologia e IA
+💡 Especialista em Tecnologia, IA e Automação
